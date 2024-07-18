@@ -11,7 +11,7 @@
 .myimg{
     margin-top: 30px;
     width: 20vw;
-    height: 30vh;
+    height: 50vh;
     margin-left: 40%;
 }
 
@@ -47,9 +47,10 @@
 .about h3{
     color: white;
     font-family: "Merriweather", serif;
-    font-size: small;
+    font-size:17px;
     font-weight: 300;
     font-style: normal;
     margin-left: 10px;
     line-height: 1.6;
+    word-spacing: 2px;
 }
