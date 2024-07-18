@@ -13,6 +13,8 @@
     width: 20vw;
     height: 50vh;
     margin-left: 40%;
+    border: 2px solid #030329;
+    border-radius: 10px;
 }
 
 .name h2{
