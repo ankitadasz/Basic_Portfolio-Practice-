@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
 *{
     
     box-sizing: border-box;
 }
 .name{
-    background-color: cornsilk;
     border: 2px solid bisque;
+    background-image: url(assets/back.jpg);
 }
 .myimg{
     margin-top: 30px;
@@ -21,7 +22,9 @@
 .name h2{
     margin-top: 20px;
     text-align: center;
-    font-family: ;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    color: white;
 }
 .name h3{
     margin-top: 10px;
@@ -29,4 +32,5 @@
     margin-bottom: 10px;
     font-family: "Poppins", sans-serif;
      font-weight: 700;
+     color: white;
 }
