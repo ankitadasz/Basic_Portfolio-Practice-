@@ -119,6 +119,7 @@ footer h3{
     background-color: rgb(120, 103, 197);
     border: 2px solid rgb(214, 212, 216);
     border-radius: 3px;
+    padding: 3px;
 }
 .a:hover{
     color: rgb(248, 245, 252);
