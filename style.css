@@ -54,3 +54,48 @@
     line-height: 1.6;
     word-spacing: 2px;
 }
+.work{
+    margin-top: 10px;
+    background-color: #030329;
+    border: 2px solid rgb(29, 1, 95);
+    margin-left: 7px;
+    margin-right: 7px;
+
+}
+.work h2{
+    color: white;
+    margin-left: 10px;
+    font-family: "Poppins", sans-serif;
+     font-weight: 700;
+}
+.i1{
+    margin-left: 5vw;
+    width: 20vw;
+    height: 30vh;
+    margin-bottom: 20px;
+    border: 2px solid burlywood;
+}
+.i2{
+    margin-left: 1vw;
+    width: 20vw;
+    height: 30vh;
+    margin-bottom: 20px;
+    border: 2px solid burlywood;
+    
+}
+.i3{
+    margin-left: 1vw;
+    width: 20vw;
+    height: 30vh;
+    margin-bottom: 20px;
+    border: 2px solid burlywood;
+    
+}
+.i4{
+    margin-left: 1vw;
+    width: 20vw;
+    height: 30vh;
+    margin-bottom: 20px;
+    border: 2px solid burlywood;
+    
+}
