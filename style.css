@@ -134,5 +134,9 @@ footer h3{
        height: 40vh;
        
     }
+    .name h3{
+        font-weight: 700;
+        font-size: 0.8rem;
+    }
     
 }
