@@ -9,6 +9,7 @@
     background-image: url(assets/back.jpg);
 }
 .myimg{
+   
     margin-top: 30px;
     width: 20vw;
     height: 50vh;
@@ -125,4 +126,13 @@ footer h3{
 }
 .a:hover{
     color: rgb(248, 245, 252);
+}
+@media screen and (max-width:400px) {
+    .myimg{
+       margin-left: 50px;
+       width: 60vw;
+       height: 40vh;
+       
+    }
+    
 }
