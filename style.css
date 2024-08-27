@@ -137,6 +137,7 @@ footer h3{
     .name h3{
         font-weight: 700;
         font-size: 0.8rem;
+        padding-bottom: 30px;
     }
     
 }
