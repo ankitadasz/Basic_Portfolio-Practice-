@@ -73,42 +73,13 @@
     font-family: "Poppins", sans-serif;
      font-weight: 700;
 }
-/*.i1{
-    margin-left: 6.5vw;
-    width: 20vw;
-    height: 30vh;
-    margin-bottom: 20px;
-    border: 2px solid burlywood;
-}
-.i2{
-    margin-left: 1vw;
-    width: 20vw;
-    height: 30vh;
-    margin-bottom: 20px;
-    border: 2px solid burlywood;
-    
-}
-.i3{
-    margin-left: 1vw;
-    width: 20vw;
-    height: 30vh;
-    margin-bottom: 20px;
-    border: 2px solid burlywood;
-    
-}
-.i4{
-    margin-left: 1vw;
-    width: 20vw;
-    height: 30vh;
-    margin-bottom: 20px;
-    border: 2px solid burlywood;
-    
-}*/
+
+
 .images{
     display: flex;
     justify-content: center;
     padding-bottom: 20px;
-    gap: 20px;
+    gap: 25px;
 }
 .image{
     width: 20vw;
